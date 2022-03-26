@@ -1,4 +1,4 @@
-# sourcemod-plugin-maneger
+# Sourcemod Plugin Manager
 Set your plugins with the menu in the game.
 
 #Commands
