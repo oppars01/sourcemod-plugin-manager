@@ -1,0 +1,60 @@
+"Phrases"
+{
+    "Console Message"
+	{
+		"en"			"This command is not used in the console."
+		"tr"			"Bu komut konsolda kullanılmamaktadır."
+	}
+
+	"Plugin List Title"
+	{
+        "#format" 		"{1:d}"
+		"en"			"PLUGINS (Total: {1})"
+		"tr"			"EKLENTİLER (Toplam: {1})"
+	}
+    
+	"Plugin List Item"
+	{
+		"#format" 		"{1:s}{2:s}{3:s}{4:s}"
+		"en"			"{1} (v.{3}) [{4}]"
+		"tr"			"{1} (v.{3}) [{4}]"
+	}
+
+	"Anonymous"
+	{
+		"en"			"Anonymous"
+		"tr"			"Anonim"
+	}
+
+    "Plugin Setting Title"
+	{
+		"#format" 		"{1:s}"
+		"en"			"{1} • Settings"
+		"tr"			"{1} • Ayarları"
+	}
+
+    "Plugin Setting Reload"
+	{
+		"en"			"Reload"
+		"tr"			"Yenile"
+	}
+
+    "Plugin Setting Load"
+	{
+		"en"			"Load"
+		"tr"			"Yükle"
+	}
+
+    "Plugin Setting Unload"
+	{
+		"en"			"Unload"
+		"tr"			"Kaldır"
+	}
+
+    "Plugin Setting Callback"
+	{
+		"#format" 		"{1:s}"
+		"en"			"[SM] {orange}{1} {darkblue}command is executed."
+		"tr"			"[SM] {orange}{1} {darkblue}komutu uygulandı."
+	}
+}
